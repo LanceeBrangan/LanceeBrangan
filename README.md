@@ -1,16 +1,24 @@
-## Hi there 👋
+# [Lancelot P. Brangan]
+**Aspiring Full-Stack Developer**
 
-<!--
-**LanceeBrangan/LanceeBrangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building scalable web applications and intuitive user interfaces. Currently focused on enhancing my skillsets and practicing in creating websites/projects.
+---
 
-Here are some ideas to get you started:
+### Technical Proficiencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+*   **Frameworks:** Vue.js, Bootstrap, Tailwind CSS
+*   **Languages:** JavaScript (ES6+), HTML5, CSS3
+*   **Languages:** Python
+*   **Backend-as-a-Service:** Supabase (PostgreSQL, Auth, Storage)
+*   Version Control (Git/GitHub), Agile Methodology, Responsive Design
+
+---
+### GitHub Metrics
+<p align="left">
+  <img src="github-readme-stats.vercel.app[lanceebrangan]&show_icons=true&theme=vivid&hide_border=true" alt="Your GitHub Stats" height="165" />
+  <img src="github-readme-stats.vercel.app[lanceebrangan]&layout=compact&theme=vivid&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
