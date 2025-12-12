@@ -1,11 +1,9 @@
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00A7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Vue.js+%7C+Tailwind+CSS+%7C+Supabase;Passionate+About+Building+Web+Experiences)](https://git.io/typing-svg)
 
 ---
 
 ## 👋 About Me  
-Aspiring Full-Stack Developer passionate about building scalable web applications and crafting intuitive user experiences.  
+I am Lance, an aspiring Full-Stack Developer passionate about building scalable web applications and crafting intuitive user experiences.  
 I enjoy learning modern technologies, experimenting with UI/UX concepts, and developing real-world projects to sharpen my skills.
 
 ---
