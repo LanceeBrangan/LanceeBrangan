@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LanceeBrangan
+# 👋 Hi, I'm Lance! 
 
 ### Web Developer | Front-End Developer
 
