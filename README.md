@@ -37,8 +37,8 @@ I enjoy learning modern technologies, experimenting with UI/UX concepts, and dev
 
 * Enhancing full-stack development skills
 * Building applications with React and Vue
-* Creating responsive interfaces with TailwindCSS and Chakra UI
-* Strengthening Supabase backend experience
+* Creating responsive interfaces with TailwindCSS
+* Strengthening Supabase & Laravel backend experience,
 * Learning Docker containerization and deployment workflows
 * Exploring local AI development with Ollama and Python
 * Developing practical portfolio projects
